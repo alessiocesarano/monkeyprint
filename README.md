@@ -117,4 +117,7 @@ The "Print" tab finally let's you start the print.
 Set the exposure values and hit "Print!". Complete the safety check list and there you go: your print is running!
 Cancel the print by pressing "Stop". It won't stop immediately but complete the current slice and run the Stop sequence commands.
 
-Note that you can't close the program while a print is running.
+Note that you can't close the program while a print is running or not.
+
+
+
